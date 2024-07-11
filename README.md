@@ -53,7 +53,7 @@
 - **Network ACLs (Access Control Lists)**: Additional layer of security at the subnet level to control inbound and outbound traffic.
 
 ## Screenshots
-Screenshots for each step can be found [here](https://docs.google.com/document/d/149ULfyAiB0FIpdxClxw1hQI8V9YhDat_KuhNotjQemY/edit?usp=sharing).
+Screenshots for each step and the VPC Architectural Diagram can be found [here](https://docs.google.com/document/d/149ULfyAiB0FIpdxClxw1hQI8V9YhDat_KuhNotjQemY/edit?usp=sharing).
 
 ---
 
